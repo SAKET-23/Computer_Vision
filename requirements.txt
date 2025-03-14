@@ -1,0 +1,16 @@
+torch 
+torchvision 
+torchaudio
+transformers 
+datasets 
+opencv-python 
+matplotlib 
+albumentations
+tensorflow-macos 
+tensorflow-metal
+pillow 
+matplotlib 
+numpy 
+pandas 
+scikit-learn
+timm
